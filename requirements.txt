@@ -3,10 +3,10 @@ uvicorn[standard]
 pydantic
 python-jose
 PyJWT
-scikit-learn
+scikit-learn==1.3.2
 pandas
 numpy
-joblib
+joblib==1.3.2
 streamlit
 requests
 streamlit
