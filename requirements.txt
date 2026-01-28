@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-jose
+PyJWT
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+requests
+streamlit
+requests
+pandas
+numpy
